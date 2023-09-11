@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ipvs-testing/static/css/main.7f0e0248.css",
+    "main.js": "/ipvs-testing/static/js/main.6e83e036.js",
+    "static/js/787.3688cb6a.chunk.js": "/ipvs-testing/static/js/787.3688cb6a.chunk.js",
+    "static/media/indiapost1.png": "/ipvs-testing/static/media/indiapost1.d1079a3034c758a13d38.png",
+    "static/media/logo.svg": "/ipvs-testing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ipvs-testing/index.html",
+    "main.7f0e0248.css.map": "/ipvs-testing/static/css/main.7f0e0248.css.map",
+    "main.6e83e036.js.map": "/ipvs-testing/static/js/main.6e83e036.js.map",
+    "787.3688cb6a.chunk.js.map": "/ipvs-testing/static/js/787.3688cb6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f0e0248.css",
+    "static/js/main.6e83e036.js"
+  ]
+}
